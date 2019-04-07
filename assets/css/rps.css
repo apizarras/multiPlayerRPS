@@ -1,0 +1,19 @@
+img {
+    height: 10vw;
+    width: 10vw;
+    cursor: pointer;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+}
+
+img:hover {
+    background-color: green;
+}
+
+img:active {
+  background-color: #779478;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+}
+
